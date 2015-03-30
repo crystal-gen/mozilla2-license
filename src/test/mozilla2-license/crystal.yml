@@ -1,0 +1,7 @@
+name: mozilla2-license-test
+version: 0.1.0
+description: mozilla2-license test
+
+generators:
+  mozilla2-license:
+    version: latest
